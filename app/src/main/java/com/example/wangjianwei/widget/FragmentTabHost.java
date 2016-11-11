@@ -1,4 +1,4 @@
-package cniao5.com.cniao5shop.widget;
+package com.example.wangjianwei.widget;
 
 
 
